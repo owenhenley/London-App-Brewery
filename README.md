@@ -1,17 +1,23 @@
 # London-App-Brewery
 
-### Xylophone
+##### An online iOS course covering the following topics:
 
-![alt text](https://github.com/owenhenley/London-App-Brewery/blob/master/Xylophone/xylophone.gif?raw=true)
+Concepts of Object Oriented Programming (OOP)
 
-<br>
+Control Structures
 
-### Magic 8 Ball
+Data Structures
 
-![alt text](https://github.com/owenhenley/London-App-Brewery/blob/master/Magic8Ball/8ball.gif?raw=true)
+Software Design
 
-<br>
+Networking
 
-### Dicee
+Persistent Local Data Storage
 
-![alt text](https://github.com/owenhenley/London-App-Brewery/blob/master/Dicee/Dicee.gif?raw=true)
+Implementing In-App Purchases with Apple StoreKit
+
+Machine Learning with CoreML and CreateML
+
+Augmented Reality with ARKit 2
+
+UI/UX Design
