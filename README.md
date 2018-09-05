@@ -1,6 +1,6 @@
 # London-App-Brewery
 
-##### An online iOS course covering the following topics:
+### An online iOS course covering the following topics:
 
 Concepts of Object Oriented Programming (OOP)
 
